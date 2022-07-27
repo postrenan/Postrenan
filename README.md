@@ -1,7 +1,8 @@
-- 👋 Ola ! Hi ! I’m Renan Bick, I have twenty years old and living in Santa Maria, RS, Brazil;
+- 👋 Hi ! I’m Renan Bick, I have twenty years old and living in Santa Maria, RS, Brazil;
 - 👀 I’m interested in tech content, Gaming Developer and programming languages like JS, C;
 - 🌱 I’m currently learning JavaScript, React, Next, Jekyll;
-- 💞️ I’m looking to collaborate on internships, jobs for beginners 
+- 💞️ I’m looking to collaborate on internships, jobs for beginners; 
+- 👜 I currently work at Químea Inteligencia Ambiental.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=postrenan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
