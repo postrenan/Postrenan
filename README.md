@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech content, Gaming Developer and programming languages like JS, C;
 - 🌱 I’m currently learning JavaScript, React, Next, Jekyll;
 - 💞️ I’m looking to collaborate on internships, jobs for beginners; 
-- 👜 I currently work at Químea Inteligencia Ambiental.
+- 👜 I currently work at Químea Inteligencia Ambiental / Acting as a collaborator in the event XXII Brazilian Symposium on Information Security and Computer Systems.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=postrenan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
