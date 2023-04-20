@@ -1,8 +1,8 @@
 - 👋 Hi ! I’m Renan Bick, I am twenty one years old and living in Santa Maria, RS, Brazil;
-- 👀 I’m interested in tech content, Gaming Developer and programming languages like JS, C, C++, C#;
-- 🌱 I’m currently learning C# with .Net;
+- 👀 I’m interested in tech content, Gaming Developer and programming languages like JS, PHP, C++, C#;
+- 🌱 I’m currently learning PHP with Laravel, Node.js and Sass;
 - 💞️ I’m looking to collaborate on internships, jobs for beginners; 
-- 👜 I currently work at Recanto Maestro.
+- 👜 I currently work at @Jetimob.
 
   
 <div style="display: inline_block"><br>
