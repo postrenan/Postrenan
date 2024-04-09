@@ -5,9 +5,23 @@
 - 🌱 I’m currently develop in JAVA with Springboot, Angular, TypeScript and Bootstrap;
 - 💞️ I’m looking to collaborate on internships, jobs for Juniors and Mid-Level; 
 - 👜 I currently work at @LUMAC.
+
+##
+
+<h3 align="left">Contact:</h3>
+<p align="left">
+  <div>
+    <a href="https://instagram.com/bickrenan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://discord.gg/alemão_dev#0336" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:renanbickdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/renan-vinicius-nikodem-bick/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  </div>
+</p>
+
+
+##
   
-<h3 align="left">Linguagens e ferramentas:</h3>
-  
+<h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block"><br>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -22,18 +36,17 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+
 ##
   
-<div>
-  <a href="https://instagram.com/bickrenan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/alemão_dev#0336" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:renanbickdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/renan-vinicius-nikodem-bick/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-
-<div style="display: inline_block">
+<h3 align="left">Stats:</h3>
+<p align="left">
   <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=postrenan&show_icons=true&locale=en&layout=compact" alt="postrenan" />
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=postrenan&show_icons=true&locale=en" alt="postrenan" />
+</p>
+
+##
+
+<div style="display: inline_block">
   <img width="200em" height="200em" alt="Anakin Skywalker 'saying this is where the fun begins'" src="https://c.tenor.com/ku-YBrMe4gYAAAAC/anakin-this-is-where-the-fun-begins.gif">
 </div>
