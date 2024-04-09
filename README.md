@@ -1,19 +1,27 @@
-- 👋 Hi ! I’m Renan Bick, I am twenty one years old and living in Santa Maria, RS, Brazil;
-- 👀 I’m interested in tech content, Gaming Developer and programming languages like JS, PHP, C++, C#;
-- 🌱 I’m currently learning PHP with Laravel, Node.js and Sass;
-- 💞️ I’m looking to collaborate on internships, jobs for beginners; 
-- 👜 I currently work at @Jetimob.
+<h1 align="center">Hi! My name is Renan Bick</h1>
+<h3 align="center">Student of Infotmation Systems at UFSM</h3>
 
+- 👀 I’m interested in tech content, Gaming Developer and programming languages like JS, PHP, C++, C#;
+- 🌱 I’m currently develop in JAVA with Springboot, Angular, TypeScript and Bootstrap;
+- 💞️ I’m looking to collaborate on internships, jobs for Juniors and Mid-Level; 
+- 👜 I currently work at @LUMAC.
+  
+<h3 align="left">Linguagens e ferramentas:</h3>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Renan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Renan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Renan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Renan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Renan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="200em" align="right" alt="Renan-gif" src="https://c.tenor.com/ku-YBrMe4gYAAAAC/anakin-this-is-where-the-fun-begins.gif">
-</div>
-  
+<p align="left"> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 ##
   
 <div>
@@ -24,4 +32,8 @@
 </div>
 
 
-![Snake animation](https://github.com/postrenan/postrenan/blob/output/github-contribution-grid-snake.svg)
+<div style="display: inline_block">
+  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=postrenan&show_icons=true&locale=en&layout=compact" alt="postrenan" />
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=postrenan&show_icons=true&locale=en" alt="postrenan" />
+  <img width="200em" height="200em" alt="Anakin Skywalker 'saying this is where the fun begins'" src="https://c.tenor.com/ku-YBrMe4gYAAAAC/anakin-this-is-where-the-fun-begins.gif">
+</div>
