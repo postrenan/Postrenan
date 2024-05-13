@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in tech content, Gaming Developer and programming languages like JS, PHP, C++, C#;
 - 🌱 I’m currently develop in JAVA with Springboot, Angular, TypeScript and Bootstrap;
-- 💞️ I’m looking to collaborate on internships, jobs for Juniors and Mid-Level; 
+- 💞️ I’m looking to collaborate on Mid-Level jobs; 
 - 👜 I currently work at @LUMAC.
 
 ##
