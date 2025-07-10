@@ -1,5 +1,5 @@
 <h1 align="center">Hi! My name is Renan Bick</h1>
-<h3 align="center">Student of Infotmation Systems at UFSM</h3>
+<h3 align="center">Student of Information Systems at UFSM</h3>
 
 <ul>
   <li>My actual stack is Vue, PHP, Laravel, PostgresSQL</li>
